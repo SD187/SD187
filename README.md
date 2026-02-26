@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 # Hi, I'm sadeepa Rathnayaka 👋
 ### A passionate fullstack developer
